@@ -261,3 +261,16 @@ td {
   height: 400px;
 }
 /* Struktur Sekolah end */
+
+/* Guru start */
+.judulGuru {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.keteranganGuru p {
+  padding: 5px 20px;
+  line-height: 30px;
+}
+/* Guru end */
