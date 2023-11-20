@@ -51,6 +51,8 @@ nav .dropdown ul li a {
 }
 
 .contentBerita a {
+  width: 250px;
+  max-height: 400px;
   text-decoration: none;
 }
 
@@ -62,6 +64,7 @@ nav .dropdown ul li a {
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
+  /* border: 1px solid red; */
 }
 
 .card-img-top {
@@ -71,6 +74,7 @@ nav .dropdown ul li a {
   object-fit: cover;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  /* border: 1px solid red; */
 }
 
 .card-title {
