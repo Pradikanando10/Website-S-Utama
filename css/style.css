@@ -282,3 +282,30 @@ td {
   line-height: 30px;
 }
 /* Guru end */
+
+/* Galery */
+.keteranganStruktur {
+  display: flex;
+  flex-direction: column;
+}
+
+.gambarGalery {
+  justify-content: center;
+  padding: 5px 20px;
+  margin: 10px;
+  /* border: 1px solid black; */
+  border-radius: 25px;
+}
+
+.gambarGalery img {
+  width: 700px;
+  height: 400px;
+}
+
+.keteranganStruktur p {
+  padding-left: 25px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+/* Galery end */
