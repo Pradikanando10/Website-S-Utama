@@ -50,6 +50,10 @@ nav .dropdown ul li a {
   /* border: 1px solid black; */
 }
 
+.contentBerita a {
+  text-decoration: none;
+}
+
 .card {
   width: 250px;
   max-height: 400px;
