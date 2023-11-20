@@ -259,6 +259,7 @@ td {
 .gambarStruktur {
   justify-content: center;
   padding: 5px 20px;
+  margin: 10px;
   border: 1px solid black;
   border-radius: 25px;
 }
