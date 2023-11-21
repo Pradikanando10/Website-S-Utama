@@ -140,6 +140,7 @@ footer .footer p {
   position: absolute;
   top: 50%;
   left: 50%;
+  text-align: center;
   transform: translate(-50%, -50%);
   background-color: rgba(255, 255, 255, 0.8);
   padding: 10px 20px;
@@ -310,6 +311,7 @@ td {
 .gambarGalery img {
   width: 700px;
   height: 400px;
+  object-fit: cover;
 }
 
 .keteranganStruktur p {
@@ -319,3 +321,60 @@ td {
   font-weight: bold;
 }
 /* Galery end */
+
+/* arsip */
+.arsip {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid red;
+  padding: 15px;
+}
+
+.list-items {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  color: black;
+  /* border: 1px solid red; */
+}
+
+.list-item {
+  display: flex;
+  padding: 20px;
+}
+
+.image-item img {
+  max-width: 200px;
+  height: 150px;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out;
+}
+
+.image-item img:hover {
+  transform: scale(1.1);
+}
+
+.paragraf-utama {
+  padding-left: 20px;
+}
+
+.judul-paragraf {
+  display: inline-block;
+  width: 300px;
+}
+
+.judul-paragraf h2 {
+  font-size: 15px;
+  color: black;
+}
+
+.judul-paragraf h2:hover {
+  color: grey;
+}
+
+.paragraf-utama .paragraf-item p {
+  color: black;
+  font-size: 12px;
+}
+
+/* arsip end */

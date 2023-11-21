@@ -1,4 +1,6 @@
 1.terakir menambahkan icon di footer
 2.memperbaiki nav, membuat page baru di menu nav
 3.sudah selesai mengerjakan page profile tinggal edit di artikel, hero section dan mengerjakan sisanya
-4. sudah menyelesaikan semua pages dan tinggal membuat pages berita, dan postingan
+4.sudah menyelesaikan semua pages dan tinggal membuat pages berita, dan postingan
+5.sudah selesai mengerjakan pages ostingan dan kurang di halaman home pada card jurusan dan postingan, lalu di arsip
+6.pengerjaan page arsip dan saat ini sesang membuat list item
