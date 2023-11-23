@@ -326,8 +326,8 @@ td {
 .arsip {
   display: flex;
   flex-direction: row;
-  border: 1px solid red;
   padding: 15px;
+  /* border: 1px solid red; */
 }
 
 .list-items {
@@ -364,7 +364,7 @@ td {
 }
 
 .judul-paragraf h2 {
-  font-size: 15px;
+  font-size: 20px;
   color: black;
 }
 
@@ -375,6 +375,10 @@ td {
 .paragraf-utama .paragraf-item p {
   color: black;
   font-size: 12px;
+}
+
+.paragraf-item a {
+  text-decoration: none;
 }
 
 /* arsip end */
