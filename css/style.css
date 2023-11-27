@@ -122,6 +122,26 @@ footer .footer p {
   color: white;
 }
 
+footer .sosialMedia {
+  display: inline-block;
+  padding: 5px;
+  margin-top: -10px;
+  /* border: 1px solid red; */
+}
+
+footer .sosialMedia a {
+  padding: 2px;
+}
+
+footer .sosialMedia img {
+  width: 25px;
+  filter: grayscale(0);
+}
+
+footer .sosialMedia img:hover {
+  filter: grayscale(50%);
+}
+
 /* visi misi */
 .hero {
   position: relative;
