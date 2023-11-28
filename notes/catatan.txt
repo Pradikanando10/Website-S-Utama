@@ -6,3 +6,4 @@
 6.pengerjaan page arsip dan saat ini sesang membuat list item
 7.kurang di bagian arsip saja
 8.telah menyelesaikan footer dan tinggal menyelesaikan card di halaman home
+9.menyelesaikan card di halaman home dan tinggal card jurusan yang belum dan keterangan footer
