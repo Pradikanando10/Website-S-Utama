@@ -5,3 +5,4 @@
 5.sudah selesai mengerjakan pages ostingan dan kurang di halaman home pada card jurusan dan postingan, lalu di arsip
 6.pengerjaan page arsip dan saat ini sesang membuat list item
 7.kurang di bagian arsip saja
+8.telah menyelesaikan footer dan tinggal menyelesaikan card di halaman home

@@ -32,8 +32,15 @@ nav .dropdown ul li a {
   display: flex;
   justify-content: center;
   color: white;
-  padding: 40px;
+  padding: 20px;
   /* border: 1px solid black; */
+}
+
+.contentBerita a {
+  width: 250px;
+  max-height: 400px;
+  text-decoration: none;
+  color: black;
 }
 
 .contentJurusan {
@@ -46,14 +53,23 @@ nav .dropdown ul li a {
   display: flex;
   justify-content: center;
   color: black;
-  padding: 40px;
+  padding: 20px;
   /* border: 1px solid black; */
 }
 
-.contentBerita a {
-  width: 250px;
-  max-height: 400px;
+.contentJurusan a {
+  color: black;
   text-decoration: none;
+}
+
+.container {
+  display: flex;
+  /* justify-content: space-evenly; */
+  flex-wrap: wrap;
+  gap: 35px;
+  /* width: 400px; */
+  /* padding: 10px; */
+  /* border: 1px solid red; */
 }
 
 .card {
@@ -61,7 +77,7 @@ nav .dropdown ul li a {
   max-height: 400px;
   border: 1px solid #ccc;
   border-radius: 10px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   /* border: 1px solid red; */
@@ -69,7 +85,7 @@ nav .dropdown ul li a {
 
 .card-img-top {
   max-width: 100%;
-  max-height: 150px;
+  max-height: 130px;
   background-size: cover;
   object-fit: cover;
   border-top-left-radius: 10px;
