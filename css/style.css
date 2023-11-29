@@ -118,6 +118,10 @@ footer .keterangan h3 {
   margin-top: 20px;
 }
 
+footer .keterangan p {
+  padding: 20px 0;
+}
+
 footer .map {
   display: flex;
   justify-content: center;
