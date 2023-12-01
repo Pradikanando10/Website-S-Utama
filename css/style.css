@@ -101,9 +101,17 @@ nav .dropdown ul li a {
   /* border: 1px solid red; */
 }
 
+.card-img {
+  display: block;
+  max-width: 150px;
+  padding-top: 10px;
+  margin: auto;
+}
+
 .card-title {
   font-size: 1.25rem;
   font-weight: bold;
+  text-align: center;
 }
 
 .card-text {
